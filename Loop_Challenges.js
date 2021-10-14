@@ -1,5 +1,5 @@
 
-/*
+
 //Print odd 1-20
 for( var i = 1; i <21; i++){
     if( i % 2 != 0){
@@ -13,7 +13,7 @@ for( i = 100; i >= 0; i--){
         console.log
     }
 }
-*/
+
 //Print the Sequence
 var arr = [4,2.5,1,-0.5,-2,-3.5];
 
