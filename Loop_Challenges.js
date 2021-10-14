@@ -1,5 +1,5 @@
 
-/*
+
 //Print odd 1-20
 for( var i = 1; i <21; i++){
     if( i % 2 != 0){
@@ -20,7 +20,7 @@ var arr = [4,2.5,1,-0.5,-2,-3.5];
 for( i = 0; i < arr.length; i++){
     console.log([i]);
 }
-*/
+
 //Sigma
 var sum = 0;
 
